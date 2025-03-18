@@ -162,9 +162,6 @@ python dnp3_client.py 172.23.1.1 20000 --write 10 2 0 123.45
   python dnp3_client.py <DNP3_SERVER_IP> <PORT> --fuzz
   ```
 
-- **Repository:**  
-  Ensure you are running the script in the directory where the [pyDNP3 repository](https://github.com/ChargePoint/pydnp3) is available.
-
 ## License
 
 This tool is provided "as is" without any warranty. Use it at your own risk.
